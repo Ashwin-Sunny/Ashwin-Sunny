@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Ashwin Sunny  
 - 👀 I'm interested in Data Analytics and building dashboards  
-- 🌱 I'm currently learning Power BI, SQL, and advanced Excel  
+- 🌱 I analyze and visualize data using Power BI, SQL, and Excel
 - 📊 I recently worked on a Coffee Sales Dashboard and a Customer Shopping Behavior Analysis project  
 - 🤝 I'm looking to collaborate on data cleaning or analytics projects  
-- 💻 Skills: Python (Pandas), SQL, Excel, Power BI  
+- 💻 Skills: Python (Pandas, NumPy), SQL, Excel, Power BI, Tableau 
 - ⚡ Fun fact: I love turning messy data into clean insights!
